@@ -1,4 +1,6 @@
-# LU Developer Network
+---
+title: LU Developer Network
+---
 
 Hi, welcome to the LU Developer Network.
 
