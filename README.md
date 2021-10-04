@@ -1,7 +1,3 @@
----
-title: LU Developer Network
----
-
 Hi, welcome to the LU Developer Network.
 
 This is a collection of resources and information on the discontinued game LEGO® Universe.
