@@ -15,10 +15,7 @@ These are some details on what the game was and how it worked under the hood
 
 - [@lcdr/utils](https://github.com/lcdr/utils/)
 - [NifTools](https://www.niftools.org/)
-  - Darwin's Nifskope Port:
-    - [for Linux](http://cache.lbbstudios.net/public/NifSkope/NifSkope_LU_Linux.zip)
-    - [for Windows](http://cache.lbbstudios.net/public/NifSkope/NifSkope_LU_Win32.zip)
-- [Noesis](www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
+- [Noesis](https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
 
 ## Libraries
 
@@ -37,7 +34,7 @@ These are some details on what the game was and how it worked under the hood
 
 If you want to, come hang out on the *LU Community Hub* Discord server
 
-- [LUCH Discord](https://discord.gg/Yz8yEmZ)
+- [LUCH Discord](https://discord.gg/jhTwGqYSKk)
 
 ## Alpha Servers
 
