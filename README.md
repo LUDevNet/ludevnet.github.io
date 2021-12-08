@@ -1,4 +1,4 @@
-Hi, welcome to the LU Developer Network.
+Hi, welcome to the LU Development Network.
 
 This is a collection of resources and information on the discontinued game LEGOÂ® Universe.
 
@@ -7,6 +7,7 @@ This is a collection of resources and information on the discontinued game LEGOÂ
 These are some details on what the game was and how it worked under the hood
 
 - [Docs](https://docs.lu-dev.net)
+- [Object IDs](https://lu-dev.net/objects)
 - [Packets](https://lcdruniverse.org/lu_packets/lu_packets)
 - [Explorer](https://xiphoseer.de/lu-explorer)
 - [Wiki](https://legouniverse.fandom.com)
