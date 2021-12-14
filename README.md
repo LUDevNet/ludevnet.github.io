@@ -23,7 +23,7 @@ These are some details on what the game was and how it worked under the hood
 
 - [pyraknet](https://github.com/lcdr/pyraknet) *by lcdr*
 - [RakDotNet](https://github.com/yuwui/RakDotNet) *by yuwui*
-- [Node RakNet](https://github.com/RaineBannister/node-raknet) *by Raine*
+- [Node RakNet](https://github.com/z010155/node-raknet) *by Raine*
 - [Infected Rose](https://github.com/Wincent01/InfectedRose) *by Wincent01*
 - [Assembly](https://github.com/xiphoseer/assembly_rs) *by Xiphoseer*
 
