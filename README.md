@@ -16,7 +16,7 @@ These are some details on what the game was and how it worked under the hood
 
 - [@lcdr/utils](https://github.com/lcdr/utils/) *by lcdr*
 - [LUnpack](https://lu-dev.net/LUnpack) *by Xiphoseer*
-- [FDB Converter](https://fdbconverter.maxoverlack.dev/) *by Majo*
+- [FDB Converter](https://fdb.lu-dev.net/) *by Majo*
 - [NifTools](https://www.niftools.org/)
 - [lwoCheckClient](https://github.com/DarwinAnim8or/lwoCheckClient) *by Darwin*
 - [Noesis](https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
