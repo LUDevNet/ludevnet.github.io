@@ -14,7 +14,9 @@ These are some details on what the game was and how it worked under the hood
 
 ## Tools
 
-- [@lcdr/utils](https://github.com/lcdr/utils/)
+- [@lcdr/utils](https://github.com/lcdr/utils/) *by lcdr*
+- [LUnpack](https://lu-dev.net/LUnpack) *by Xiphoseer*
+- [FDB Converter](https://fdbconverter.maxoverlack.dev/) *by Majo*
 - [NifTools](https://www.niftools.org/)
 - [lwoCheckClient](https://github.com/DarwinAnim8or/lwoCheckClient) *by Darwin*
 - [Noesis](https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
@@ -25,7 +27,7 @@ These are some details on what the game was and how it worked under the hood
 - [RakDotNet](https://github.com/yuwui/RakDotNet) *by yuwui*
 - [Node RakNet](https://github.com/z010155/node-raknet) *by Raine*
 - [Infected Rose](https://github.com/Wincent01/InfectedRose) *by Wincent01*
-- [Assembly](https://github.com/xiphoseer/assembly_rs) *by Xiphoseer*
+- [Assembly](https://github.com/LUDevNet/Assembly) *by Xiphoseer*
 
 ## Original Dependencies
 
