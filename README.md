@@ -9,7 +9,7 @@ These are some details on what the game was and how it worked under the hood
 - [Docs](https://docs.lu-dev.net)
 - [Object IDs](https://lu-dev.net/objects)
 - [Packets](https://lcdruniverse.org/lu_packets/lu_packets)
-- [Explorer](https://xiphoseer.de/lu-explorer)
+- [Explorer](https://lu-dev.net/lu-explorer)
 - [Wiki](https://legouniverse.fandom.com)
 
 ## Tools
