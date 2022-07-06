@@ -20,6 +20,7 @@ These are some details on what the game was and how it worked under the hood
 - [NifTools](https://www.niftools.org/)
 - [lwoCheckClient](https://github.com/DarwinAnim8or/lwoCheckClient) *by Darwin*
 - [Noesis](https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
+- [LEGO Universe Toolbox](https://github.com/Squareville/lu-toolbox)
 
 ## Libraries
 
